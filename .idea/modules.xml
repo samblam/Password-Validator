@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PasswordValidator.iml" filepath="$PROJECT_DIR$/PasswordValidator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Password-Validator.iml" filepath="$PROJECT_DIR$/.idea/Password-Validator.iml" />
+      <module fileurl="file://C:\Users\Sam\StudioProject\Password-Validator\PasswordValidator.iml" filepath="C:\Users\Sam\StudioProject\Password-Validator\PasswordValidator.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
